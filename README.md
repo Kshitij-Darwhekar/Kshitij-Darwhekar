@@ -10,7 +10,7 @@
 ### My interest are 
 #### Machine Learning , Deep Learning , Data Science, Data Analytics
 
-- 🌱 I’m currently learning Deep Learning.
-- 💬 Ask me about ML | DL 
+- 🌱 I’m currently learning Data Science.
+- 💬 Ask me about ML | DL | Data Science | Computer Vision
 - 📫 Reach me : kshitijdarwhekar@gmail.com
 - Visit my Website : https://kshitij-darwhekar.github.io/kshitijdarwhekar.io/ 
