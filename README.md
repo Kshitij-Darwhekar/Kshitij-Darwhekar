@@ -14,4 +14,4 @@
 - 💬 Ask me about <b> ML | DL | Data Science | Computer Vision </b>
 - 📫 Reach me : kshitijdarwhekar@gmail.com
 - :globe_with_meridians: Visit my Website : https://kshitij-darwhekar.github.io/kshitijdarwhekar.io/
--                                           https://portfolio-website-8hfa7xvrx-kshitij-darwhekar.vercel.app/ 
+-                                           https://portfolio-website-8hfa7xvrx-kshitij-darwhekar.vercel.app/  
