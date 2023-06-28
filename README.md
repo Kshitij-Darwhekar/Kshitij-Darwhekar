@@ -6,7 +6,6 @@
 <a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" width="100px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
 [<img alt="Youtube" width="100px" src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" />](https://www.youtube.com/@kshitijdarwhekar)
 [<img alt="Twitter" width="100px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo-768x432.png" />](https://twitter.com/KshitijDarwhek1)
-[<img alt="Medium" width="100px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />](https://medium.com/@your_username)
 
 ### My interest are 
 #### Machine Learning , Deep Learning , Data Science, Data Analytics
