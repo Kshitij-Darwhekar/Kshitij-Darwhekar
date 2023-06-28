@@ -10,9 +10,9 @@
 
 
 ### My interest are 
-#### Machine Learning , Deep Learning , Data Science, Data Analytics
+#### Machine Learning , Deep Learning , Data Science, Data Analytics , Frontend Development , UI/UX
 
-- 🌱 I’m currently learning Data Science.
-- 💬 Ask me about <b> ML | DL | Data Science | Computer Vision </b>
+- 🌱 I’m currently learning Full Stack Development.
+- 💬 Ask me about <b> React | JS | Tailwind Css | ML | DL | Data Science | Computer Vision </b>
 - 📫 Reach me : kshitijdarwhekar@gmail.com
 - :globe_with_meridians: Visit my Website : https://portfolio-website-ochre-mu.vercel.app/   
