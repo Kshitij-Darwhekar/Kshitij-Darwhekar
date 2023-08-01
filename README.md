@@ -7,6 +7,7 @@
 [<img alt="Youtube" width="100px" src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" />](https://www.youtube.com/@kshitijdarwhekar)
 [<img alt="Twitter" width="100px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo-768x432.png" />](https://twitter.com/KshitijDarwhek1)
 
+![twitter_logo_PNG1](https://github.com/Kshitij-Darwhekar/Kshitij-Darwhekar/assets/54590658/ba412238-2bdd-4798-89f4-d5408e97ee66)
 
 
 ### My interest are 
