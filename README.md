@@ -7,7 +7,7 @@
 [<img alt="LinkedIn" width="100px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)
 <a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" width="100px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
 [<img alt="Youtube" width="100px" src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" />](https://www.youtube.com/@kshitijdarwhekar)
-[<img alt="Twitter" width="100px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE-768x432.png" />](https://twitter.com/KshitijDarwhek1)
+[<img alt="Twitter" width="100px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/KshitijDarwhek1)
 
 
 
@@ -33,15 +33,8 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kshitij-Darwhekar" /></p>
 
 
 
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
