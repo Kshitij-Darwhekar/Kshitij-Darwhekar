@@ -19,4 +19,8 @@
 - :globe_with_meridians: Visit my Website : https://kshitij-website-fullstack.vercel.app/
 
 
-![Kshitij-Darwhekar's Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![Kshitij-Darwhekar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Kshitij-Darwhekar's Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+
+![Kshitij-Darwhekar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Kshitij-Darwhekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true)
