@@ -31,13 +31,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Kshitij-Darwhekar" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kshitij-Darwhekar" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
 
 
-![Kshitij-Darwhekar's Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
 
-![Kshitij-Darwhekar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![Kshitij-Darwhekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true)
+
