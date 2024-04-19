@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
+
 ### My Socials 
 
 [<img alt="LinkedIn" width="100px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)
@@ -8,7 +10,7 @@
 [<img alt="Twitter" width="100px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE-768x432.png" />](https://twitter.com/KshitijDarwhek1)
 
 
-![](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
+
 
 
 
