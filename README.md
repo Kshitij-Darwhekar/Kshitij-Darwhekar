@@ -17,3 +17,6 @@
 - 💬 Ask me about <b> React | JS | Tailwind Css | ML | DL | Data Science | Computer Vision </b>
 - 📫 Reach me: kshitijdarwhekar@gmail.com
 - :globe_with_meridians: Visit my Website : https://kshitij-website-fullstack.vercel.app/
+
+
+![Kshitij-Darwhekar's Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
