@@ -33,7 +33,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=vue-dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
 
 
 
