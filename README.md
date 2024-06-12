@@ -8,7 +8,7 @@
 <a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="180" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
 [<img alt="Youtube" height="100" width="180" src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" />](https://www.youtube.com/@kshitijdarwhekar)
 [<img alt="Twitter" height="100" width="120" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/KshitijDarwhek1)
-[<img alt="Hugging Face" height="100" width="100" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
+[<img alt="Hugging Face" height="100" width="120" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
 
 
 
