@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there! I am Kshitij Darwhekar 👋
 
-![](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
+![Profile Views: ](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
 
 
 ## Get in touch 🤝
