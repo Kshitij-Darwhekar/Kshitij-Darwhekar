@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
 
 
-### Get in touch 🤝
+## Get in touch 🤝
 
 [<img alt="LinkedIn" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)
 <a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a>
@@ -15,8 +15,8 @@
 
 
 
-### My interest are 🚀
-#### Machine Learning, Data Science, Data Analytics, Frontend Development, Full Stack Development, UI/UX
+## My interest are 🚀
+### Machine Learning, Data Science, Data Analytics, Frontend Development, Full Stack Development, UI/UX
 
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about <b> React | JS | Tailwind Css | ML | DL | Data Science | Computer Vision </b>
