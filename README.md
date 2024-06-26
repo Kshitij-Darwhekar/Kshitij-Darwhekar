@@ -19,7 +19,7 @@
 ### Machine Learning, Data Science, Data Analytics, Frontend Development, Full Stack Development, UI/UX
 
 - 🌱 I’m currently learning Full Stack Development.
-- 💬 Ask me about <b> React | JS | Tailwind Css | ML | DL | Data Science | Computer Vision </b>
+- 💬 Ask me about <b> React | JS | Tailwind Css | Machine Learning | Deep Learning | Data Science | Computer Vision </b>
 - 📫 Reach me: kshitijdarwhekar@gmail.com
 - :globe_with_meridians: Visit my Website : https://kshitijdarwhekar.tech/
 
