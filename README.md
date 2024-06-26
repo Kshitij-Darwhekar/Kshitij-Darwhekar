@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
 
-### My Socials 
+### Get in touch 🤝
 
-[<img alt="LinkedIn" height="100" width="130" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)
-<a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="175" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
+[<img alt="LinkedIn" height="100" width="130" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)
+<a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="175" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a>
 [<img alt="Youtube" height="100" width="180" src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" />](https://www.youtube.com/@kshitijdarwhekar)
 [<img alt="Twitter" height="100" width="120" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/KshitijDarwhek1)
 [<img alt="Hugging Face" height="100" width="110" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
@@ -14,7 +14,7 @@
 
 
 
-### My interest are 
+### My interest are 🚀
 #### Machine Learning, Data Science, Data Analytics, Frontend Development, Full Stack Development, UI/UX
 
 - 🌱 I’m currently learning Full Stack Development.
