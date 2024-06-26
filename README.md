@@ -9,7 +9,7 @@
 <a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a>
 [<img alt="Youtube" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />](https://www.youtube.com/@kshitijdarwhekar)
 [<img alt="Twitter" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />](https://twitter.com/KshitijDarwhek1)
-[<img alt="Hugging Face" height="100" width="100" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
+[<img alt="Hugging Face" height="105" width="100" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
 
 
 
