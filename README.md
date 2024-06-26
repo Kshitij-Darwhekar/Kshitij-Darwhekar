@@ -30,13 +30,15 @@
 
 ## My Github Stats 📈
 <div align="center" >
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&count_private=true" /></p>
+ 
   
+  ![Kshitij's Github Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&count_private=true)
   
+
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Kshitij-Darwhekar" /></p>
+  ![Kshitij's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&layout=compact)
   
-  
-  
-  <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=dark&hide_border=true" alt="Kshitij-Darwhekar" /></p>
+
+
+  ![Kshitij's Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=dark&hide_border=true)
 </div>
