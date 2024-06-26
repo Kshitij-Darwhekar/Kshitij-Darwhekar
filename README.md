@@ -2,7 +2,7 @@
 
 ![Profile Views: ](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
 
-![🌐 Visit My Website](https://kshitijdarwhekar.tech/)
+- 🌐 https://kshitijdarwhekar.tech/
 
 ## Get in touch 🤝
 
