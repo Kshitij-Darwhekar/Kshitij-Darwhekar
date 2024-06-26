@@ -12,7 +12,7 @@
 [<img alt="Hugging Face" height="100" width="105" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)
 
 
-
+<br/>
 
 
 ## My interest are 🚀
@@ -25,7 +25,7 @@
 
 
 
-
+<br/>
 
 
 ## My Github Stats 📈
