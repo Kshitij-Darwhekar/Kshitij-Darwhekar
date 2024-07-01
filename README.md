@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about <b> React | JS | Tailwind Css | Machine Learning | Deep Learning | Data Science | Computer Vision </b>
 - 📫 Reach me: kshitijdarwhekar@gmail.com
-- :globe_with_meridians: Visit my Website : https://kshitijdarwhekar.tech/
+- :globe_with_meridians: Visit my Website : https://kshitijdarwhekar.com
 
 
 <br/>
