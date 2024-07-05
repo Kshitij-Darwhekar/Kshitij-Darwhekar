@@ -1,8 +1,8 @@
 # Hi there! I am Kshitij Darwhekar 👋
 
-![Profile Views: ](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
+![Profile Views : ](https://komarev.com/ghpvc/?username=Kshitij-Darwhekar)
 
-🌐 Visit my Website: https://kshitijdarwhekar.com
+🌐 Visit my Website : https://kshitijdarwhekar.com
 
 ## Get in touch 🤝
 
