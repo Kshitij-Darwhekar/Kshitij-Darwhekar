@@ -12,6 +12,7 @@
 [<img alt="KshitijDarwhek1 | Twitter" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />](https://twitter.com/KshitijDarwhek1)&nbsp;&nbsp;&nbsp;
 [<img alt="Kshitijdarwhekar | Medium.com" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-512.png" />](https://medium.com/@kshitijdarwhekar)&nbsp;&nbsp;&nbsp;
 [<img alt="HorizoniX | Hugging Face" height="100" width="105" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)&nbsp;&nbsp;&nbsp;
+[<img alt="Kshitij Darwhekar | Kaggle" height="100" width="105" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" />](https://www.kaggle.com/kshitijdarwhekar)&nbsp;&nbsp;&nbsp;
 
 
 <br/>
