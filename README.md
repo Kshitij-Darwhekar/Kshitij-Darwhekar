@@ -24,7 +24,7 @@
 <br/>
 
 - 🔭 I'm currently working as a <b> Application Developer @ IBM. <b/>
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Ask me about <b> React | JS | Tailwind Css | Machine Learning | Deep Learning | Data Science | Computer Vision </b>
 - 📫 Reach me: kshitijdarwhekar@gmail.com
 - :globe_with_meridians: Visit my Website : https://kshitijdarwhekar.com
