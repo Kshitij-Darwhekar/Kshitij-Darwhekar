@@ -62,14 +62,14 @@
 ## My Github Stats 📈
 <div align="center" >
   
-  ![Kshitij's Github Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![Kshitij's Github Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&count_private=true) 
   
 
   
-  ![Kshitij's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![Kshitij's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Darwhekar&theme=dark&show_icons=true&hide_border=true&layout=compact) 
   
 
 
-  ![Kshitij's Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=dark&hide_border=true)
+  ![Kshitij's Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=dark&hide_border=true) 
   
 </div>
