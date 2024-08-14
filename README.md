@@ -23,7 +23,7 @@
 
 <br/>
 
-- 🔭 I'm currently working as a <b> Application Developer @ IBM. <b/>
+- 🔭 I'm currently working as a <b> Celonis Data Engineer @ IBM. <b/>
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Ask me about <b> React | JS | Tailwind Css | Machine Learning | Deep Learning | Data Science | Computer Vision </b>
 - 📫 Reach me: kshitijdarwhekar@gmail.com
