@@ -71,5 +71,7 @@
 
 
   ![Kshitij's Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Darwhekar&theme=dark&hide_border=true) 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kshitij-darwhekar&theme=onedark)](https://github.com/kshitij-darwhekar/github-profile-trophy)
   
 </div>
