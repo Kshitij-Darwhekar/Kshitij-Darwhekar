@@ -30,7 +30,7 @@
 - :globe_with_meridians: Visit my Website : https://kshitijdarwhekar.com
 
 If you like my Articles or want to support me for my projects:
-<img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" />&nbsp;&nbsp;&nbsp;
+<img src="hhttps://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />&nbsp;&nbsp;&nbsp;
 
 <br/>
 
