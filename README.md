@@ -19,7 +19,7 @@
 
 
 ## My interest are 🚀
-### Machine Learning, Data Science, Data Analytics, Frontend Development, Full Stack Development, UI/UX
+### Machine Learning, Deep Learning, Generative AI, Large Language Models, Data Analytics, Frontend Development, Full Stack Development, UI/UX
 
 <br/>
 
