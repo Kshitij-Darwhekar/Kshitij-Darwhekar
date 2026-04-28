@@ -8,13 +8,13 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/"><img alt="LinkedIn" height="60" width="60" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a></td>
-    <td align="center"><a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a></td>
-    <td align="center"><a href="https://www.youtube.com/@kshitijdarwhekar"><img alt="YouTube" height="60" width="60" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" /></a></td>
-    <td align="center"><a href="https://x.com/KshitijDarwhekr"><img alt="Twitter" height="60" width="60" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a></td>
-    <td align="center"><a href="https://medium.com/@kshitijdarwhekar"><img alt="Medium" height="60" width="60" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-512.png" /></a></td>
-    <td align="center"><a href="https://huggingface.co/HorizoniX"><img alt="Hugging Face" height="60" width="65" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" /></a></td>
-    <td align="center"><a href="https://www.kaggle.com/kshitijdarwhekar"><img alt="Kaggle" height="60" width="65" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/"><img alt="LinkedIn" height="80" width="80" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a></td>
+    <td align="center"><a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="80" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a></td>
+    <td align="center"><a href="https://www.youtube.com/@kshitijdarwhekar"><img alt="YouTube" height="80" width="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" /></a></td>
+    <td align="center"><a href="https://x.com/KshitijDarwhekr"><img alt="Twitter" height="80" width="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a></td>
+    <td align="center"><a href="https://medium.com/@kshitijdarwhekar"><img alt="Medium" height="80" width="80" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-512.png" /></a></td>
+    <td align="center"><a href="https://huggingface.co/HorizoniX"><img alt="Hugging Face" height="80" width="85" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" /></a></td>
+    <td align="center"><a href="https://www.kaggle.com/kshitijdarwhekar"><img alt="Kaggle" height="80" width="85" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" /></a></td>
   </tr>
 </table>
 
