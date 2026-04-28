@@ -6,14 +6,29 @@
 
 ## Get in touch 🤝
 
-[<img alt="kshitij-darwhekar | LinkedIn" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/)&nbsp;&nbsp;&nbsp;
-<a href="mailto:kshitijdarwhekar@gmail.com"><img alt="Gmail" height="100" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></a>&nbsp;&nbsp;&nbsp;
-[<img alt="Kshitij Darwhekar | Youtube" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />](https://www.youtube.com/@kshitijdarwhekar)&nbsp;&nbsp;&nbsp;
-[<img alt="KshitijDarwhek1 | Twitter" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />](https://x.com/KshitijDarwhekr)&nbsp;&nbsp;&nbsp;
-[<img alt="Kshitijdarwhekar | Medium.com" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-512.png" />](https://medium.com/@kshitijdarwhekar)&nbsp;&nbsp;&nbsp;
-[<img alt="HorizoniX | Hugging Face" height="100" width="105" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/HorizoniX)&nbsp;&nbsp;&nbsp;
-[<img alt="Kshitij Darwhekar | Kaggle" height="100" width="105" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" />](https://www.kaggle.com/kshitijdarwhekar)&nbsp;&nbsp;&nbsp;
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/">
+    <img alt="LinkedIn" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kshitijdarwhekar@gmail.com">
+    <img alt="Gmail" height="100" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@kshitijdarwhekar">
+    <img alt="YouTube" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/KshitijDarwhekr">
+    <img alt="Twitter" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@kshitijdarwhekar">
+    <img alt="Medium" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-512.png" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/HorizoniX">
+    <img alt="Hugging Face" height="100" width="105" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/kshitijdarwhekar">
+    <img alt="Kaggle" height="100" width="105" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" />
+  </a>
+</p>
 
 <br/>
 
