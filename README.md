@@ -26,7 +26,7 @@
 
 <br/>
 
-- 🔭 I'm currently working as a <b> Celonis Data Engineer @ IBM. </b>
+- 🔭 I'm currently working as a <b> Application Developer @ IBM. </b>
 - ✍️ I write at [Medium](https://medium.com/@kshitijdarwhekar)
 - 🌱 I’m currently learning <b> Artificial Intelligence. </b>
 - 💬 Ask me about <b> React | JS | Tailwind Css | Machine Learning | Deep Learning | Generative AI | Computer Vision </b>
